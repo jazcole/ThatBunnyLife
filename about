@@ -1,6 +1,48 @@
 <html>
-  <head> 
-    <titile> About me </title> </head>
+  <head>    
     
+    <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     
+      <div class="container-fluid">
+      
+</div>
+   <div style=
+      "background-color:white;padding:95px;">
+            
+    <ul class="nav nav-tabs">
+  <li role="presentation"><a href="#"><span style="color:#3892AD">Home</span></a></li>
+  <li role="presentation" class="active"> <a href="about.html"><span style="color:#3892AD">About</span></a></li>
+  <li role="presentation"><a href="contact.html"><span style="color:#3892AD">Contact</span></a></li>
+
+</ul>
+  </div>
+    </head>
+      </div>
+
+<body>
+  
+  <br> </br>
+  <p>My name is Pepper. </p>
+  <p>I'm a fluffy a Holland Lop rabbit</p>  
+  <p>and I live that spoiled bunny life. </p>
+ 
+  
+  </h1>
+  
+
+<h1>
+<header>   
+<div class="container">           
+<img src="https://github.com/jazcole/ThatBunnyLife/blob/master/Images/Screen%20Shot%202018-02-26%20at%203.41.26%20PM.png?raw=true" class="img-circle" alt="Cinque Terre" height="236"> 
+<img src="https://github.com/jazcole/ThatBunnyLife/blob/master/Images/Screen%20Shot%202018-02-26%20at%203.46.53%20PM.png?raw=true" class="img-circle" alt="Cinque Terre" height="236"> <img src="https://github.com/jazcole/ThatBunnyLife/blob/master/Images/Screen%20Shot%202018-02-26%20at%203.45.57%20PM.png?raw=true" class="img-circle" alt="Cinque Terre" height="236"> 
+</div>
+</header>
+</div>
+</h1>
+ </body>
     </html>
